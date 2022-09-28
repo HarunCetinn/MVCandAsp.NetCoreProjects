@@ -1,0 +1,38 @@
+﻿@using CoreDepartman.Models
+@model List<Personel>
+@{
+    ViewData["Title"] = "DepartDetay";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<br />
+<h2>Depart Detay Sayfası</h2>
+<br />
+<div><b> @ViewBag.dpt</b></div>
+<br />
+<table class=" table table-bordered">
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+            Ad
+        </th>
+        <th>
+            Soyad
+        </th>
+        <th>
+            Şehir
+        </th>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.PerId</td>
+            <td>@x.Ad</td>
+            <td>@x.Soyad</td>
+            <td>@x.Sehir</td>
+        </tr>
+    }
+</table>
+

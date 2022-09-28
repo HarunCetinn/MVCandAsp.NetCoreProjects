@@ -1,0 +1,11 @@
+C:\Users\ebedi\source\repos\CoreDepartman\CoreDepartman\bin\Debug\netcoreapp2.0\CoreDepartman.deps.json
+C:\Users\ebedi\source\repos\CoreDepartman\CoreDepartman\bin\Debug\netcoreapp2.0\CoreDepartman.runtimeconfig.json
+C:\Users\ebedi\source\repos\CoreDepartman\CoreDepartman\bin\Debug\netcoreapp2.0\CoreDepartman.runtimeconfig.dev.json
+C:\Users\ebedi\source\repos\CoreDepartman\CoreDepartman\bin\Debug\netcoreapp2.0\CoreDepartman.dll
+C:\Users\ebedi\source\repos\CoreDepartman\CoreDepartman\obj\Debug\netcoreapp2.0\CoreDepartman.csproj.CoreCompileInputs.cache
+C:\Users\ebedi\source\repos\CoreDepartman\CoreDepartman\obj\Debug\netcoreapp2.0\CoreDepartman.AssemblyInfoInputs.cache
+C:\Users\ebedi\source\repos\CoreDepartman\CoreDepartman\obj\Debug\netcoreapp2.0\CoreDepartman.AssemblyInfo.cs
+C:\Users\ebedi\source\repos\CoreDepartman\CoreDepartman\obj\Debug\netcoreapp2.0\CoreDepartman.csprojAssemblyReference.cache
+C:\Users\ebedi\source\repos\CoreDepartman\CoreDepartman\bin\Debug\netcoreapp2.0\CoreDepartman.pdb
+C:\Users\ebedi\source\repos\CoreDepartman\CoreDepartman\obj\Debug\netcoreapp2.0\CoreDepartman.dll
+C:\Users\ebedi\source\repos\CoreDepartman\CoreDepartman\obj\Debug\netcoreapp2.0\CoreDepartman.pdb
